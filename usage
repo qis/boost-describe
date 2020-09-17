@@ -1,2 +1,4 @@
+The package boost-describe uses boost CMake targets:
+
     find_package(Boost REQUIRED COMPONENTS headers)
     target_link_libraries(main PUBLIC Boost::headers)
