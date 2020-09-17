@@ -1,0 +1,4 @@
+Source: boost-describe
+Version: 2020-09-16
+Homepage: https://github.com/pdimov/describe
+Description: A C++14 reflection library.
